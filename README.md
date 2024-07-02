@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with [Sympad](https://sympad.ir/)
 
-- 👨‍💻 All of my projects are available at [github.com/HamdiReza](github.com/HamdiReza)
+- 👨‍💻 All of my projects are available at [github.com/HamdiReza](https://github.com/HamdiReza)
 
 - 💬 Ask me about **Flutter, React, Laravel, Flask**
 
