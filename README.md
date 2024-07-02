@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rezahamdi (Riza)</h1>
 <h3 align="center">👨‍💻 Im web and android developer from IRAN</h3>
 
-- 🔭 I’m currently working on [AYRALWAY](ayralway.ir)
+- 🔭 I’m currently working on [AyralWay](https://ayralway.ir)
 
 - 🌱 I’m currently learning **Redis, GraphQL, TDD BDD, NextJS, ...**
 
-- 👯 I’m looking to collaborate on [SIYAHA](siyaha.ir)
+- 👯 I’m looking to collaborate on [Siyaha](https://siyaha.ir)
 
-- 🤝 I’m looking for help with [SYMPAD](sympad.ir/)
+- 🤝 I’m looking for help with [Sympad](https://sympad.ir/)
 
 - 👨‍💻 All of my projects are available at [github.com/HamdiReza](github.com/HamdiReza)
 
